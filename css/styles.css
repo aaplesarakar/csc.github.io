@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 /*!
 * Start Bootstrap - Freelancer v7.0.5 (https://startbootstrap.com/theme/freelancer)
 * Copyright 2013-2021 Start Bootstrap
@@ -61,7 +61,7 @@
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
   --bs-body-color: #212529;
-  --bs-body-bg: #fff;
+  --bs-body-bg: #ff7505;
 }
 
 *,
@@ -236,7 +236,7 @@ sup {
 }
 
 a {
-  color: #eb9320;
+  color: #090908;
   text-decoration: underline;
 }
 a:hover {
@@ -596,7 +596,7 @@ progress {
   color: #6c757d;
 }
 .blockquote-footer::before {
-  content: "— ";
+  content: "— ";
 }
 
 .img-fluid {
@@ -11500,10 +11500,10 @@ html {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #2c3e50;
+  background-color: var(#ff7505);
   color: #fff;
 }
 
 .copyright {
-  background-color: #1a252f;
+  background-color: var(#ff7505);
 }
