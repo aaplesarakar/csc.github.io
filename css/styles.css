@@ -3032,7 +3032,7 @@ textarea.form-control-lg {
 .btn-primary {
   color: #fff;
   background-color: #eb9320;
-  border-color: #eb9320;
+  border-color: #0a0a0a;
 }
 .btn-primary:hover {
   color: #fff;
@@ -11401,7 +11401,7 @@ html {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #eb9320;
+    background: #20df86;
   }
 
   #mainNav.navbar-shrink {
