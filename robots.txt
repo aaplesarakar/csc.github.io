@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://aaplesarkar.org.in/sitemap.xml
+Sitemap: https://aaplesarakar.github.io/csc.github.io/sitemap.xml
